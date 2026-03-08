@@ -1,0 +1,23 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amodkakarmath/node-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amodkakarmath/node-docker/issues"
+  },
+  "homepage": "https://github.com/amodkakarmath/node-docker#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
