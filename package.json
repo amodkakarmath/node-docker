@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/amodkakarmath/node-docker/issues"
   },
-  "homepage": "https://github.com/amodkakarmath/node-docker#readme"
+  "homepage": "https://github.com/amodkakarmath/node-docker#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
